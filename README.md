@@ -1,6 +1,6 @@
 # LOGISTIC-REGRESSION
 
-### IMPLEMENTION OF LOGISTIC REGRESSION USING SCIKIT-LEARN PYTHON LIBRARY
+### IMPLEMENTION OF LOGISTIC REGRESSION USING SCIKIT-LEARN PYTHON LIBRARY TO PREDICT DIABETES
 
 - Logistic regression is one of the most popular Machine Learning algorithms, which comes under the Supervised Learning technique
 - It is used for predicting the categorical dependent variable using a given set of independent variables
